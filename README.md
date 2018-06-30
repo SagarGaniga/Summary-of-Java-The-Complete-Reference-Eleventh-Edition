@@ -5,3 +5,6 @@ In this series of article I am going to summarise what I learned from this book 
 
 Also, I did some extra research over the internet to make this exercise interesting. I hope you find this helpful.
 
+## Chapter 0: Introduction
+https://medium.com/@sagarganiga468/summary-of-java-the-complete-reference-eleventh-edition-7a2671670692
+
