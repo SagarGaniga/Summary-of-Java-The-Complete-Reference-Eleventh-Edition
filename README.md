@@ -10,3 +10,5 @@ Also, I did some extra research over the internet to make this exercise interest
 ### Introduction
 https://medium.com/@sagarganiga468/summary-of-java-the-complete-reference-eleventh-edition-7a2671670692
 
+### OOP in Java
+https://medium.com/@sagarganiga468/object-oriented-programming-in-java-a472f2616a3
